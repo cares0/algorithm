@@ -1,5 +1,8 @@
 package boj.codeplus.basic.`200`
 
+import boj.codeplus.basic.ArrayStack
+import boj.codeplus.basic.ListStack
+import boj.codeplus.basic.Stack
 import kotlin.math.absoluteValue
 import kotlin.random.Random
 import kotlin.system.measureNanoTime

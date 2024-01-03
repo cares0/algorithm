@@ -1,4 +1,4 @@
-package boj.codeplus.basic.`200`
+package boj.codeplus.basic
 
 interface Stack<E> {
 

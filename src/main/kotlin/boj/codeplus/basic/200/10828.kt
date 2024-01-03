@@ -1,5 +1,7 @@
 package boj.codeplus.basic.`200`
 
+import boj.codeplus.basic.ListStack
+
 fun main() {
     val inputSize = readln().toInt()
     val stack = ListStack<Int>()

@@ -1,5 +1,6 @@
 package boj.codeplus.basic.`200`
 
+import boj.codeplus.basic.RingBuffer
 import java.io.BufferedReader
 import java.io.BufferedWriter
 import java.io.InputStreamReader

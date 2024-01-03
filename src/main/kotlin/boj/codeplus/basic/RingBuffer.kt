@@ -1,4 +1,4 @@
-package boj.codeplus.basic.`200`
+package boj.codeplus.basic
 
 class RingBuffer<T>(
     private val capacity: Int = 10
